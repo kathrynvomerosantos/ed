@@ -1,12 +1,10 @@
 ---
 layout: poem
-title: Of the Ant and Grashopper
+title: **FAB. XII. Of the Ant and Grashopper**
 author: John Ogilby
 source: 1668 EEBO copy
 ---
 
-
-**FAB. XII. Of the Ant and Grashopper.** 
 
 The King of _Antil_ and _Pismirian_ Lords,  
 Each mounted on their own peculiar Hoards,  
@@ -78,8 +76,6 @@ No Storm appear'd, no thick condensed Crack,
 With Thunder rose, Heavens Turrets to attack,   
 But prov'd all Fair, so universal Cleer,  
 That Day stands Crown'd the Glory of the Year;   
-                                      Nor
-
 Nor more our false Enthusiast webeheld,   
 Who us to this sad Embassie compell'd.   
 When thus the (b) King to the starv'd Envoy said  
