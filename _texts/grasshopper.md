@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: **FAB. XII. Of the Ant and Grashopper**
+title: FAB. XII. Of the Ant and Grashopper
 author: John Ogilby
 source: 1668 EEBO copy
 ---
