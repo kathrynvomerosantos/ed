@@ -1,9 +1,3 @@
----
-layout: poem
-title: Of the Ant and Grasshopper
-author: John Ogilby
-source: 1668 Printing
----
 
 
 ##AESOPS FABLES.
