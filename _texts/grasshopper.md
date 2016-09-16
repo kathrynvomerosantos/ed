@@ -1,8 +1,8 @@
 ---
 layout: poem
-title: Dreams
-author: Langston Hughes
-source: Project Guttenberg
+title: Of the Ant and Grasshopper
+author: John Ogilby
+source: 1668 Printing
 ---
 
 
