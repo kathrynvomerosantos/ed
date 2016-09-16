@@ -1,6 +1,10 @@
 ---
-title: Of the Ant and the Grasshopper
+layout: poem
+title: Of the Ant and Grashopper
+author: John Ogilby
+source: 1668 EEBO copy
 ---
+
 
 **FAB. XII. Of the Ant and Grashopper.** 
 
