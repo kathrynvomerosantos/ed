@@ -1,6 +1,5 @@
+title: Of the Ant and the Grasshopper
 
-
-##AESOPS FABLES.
 
 **FAB. XII. Of the Ant and Grashopper.** 
 
